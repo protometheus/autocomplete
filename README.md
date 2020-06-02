@@ -1,5 +1,5 @@
 # Autocomplete
-This package creates a Trie for word frequency based on the complete works of Shakespeare. Upon given input prefix, returns the top N words that begin with that prefix along with their frequencies.
+This package ingests the complete works of Shakespeare and provides word suggestions based on the word's frequency. Upon given input prefix, returns the top 25 words that begin with that prefix along with their frequencies.
 
 ## Run Locally
 Execute the program from command-line and follow the instructions. 
